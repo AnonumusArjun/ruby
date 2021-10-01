@@ -1,4 +1,4 @@
-friends = Array["Keval", "Karan", "Oscar"]
+friends = Array["Keval", "Karan", "Oscar", "Ved"]
 frd = Array.new
 frd[0] = "Jay"
 frd[5] = "Arjun"
